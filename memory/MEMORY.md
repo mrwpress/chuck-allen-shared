@@ -1,0 +1,10 @@
+- [User Profile](user_profile.md) — Chuck Allen, MR. WPress owner, Colorado-based developer, 18 years experience
+- [Coding Standards](feedback_coding_standards.md) — Performance-first, Astro, scoped CSS, TypeScript, image optimization rules
+- [SEO & Analytics](feedback_seo_analytics.md) — Structured data, meta tags, deferred GTM, font loading patterns
+- [Design System](feedback_design_system.md) — Shared @mrwpress/shared: tokens, components, per-site palette overrides, Astro scoping gotchas
+- [Git Workflow](feedback_git_workflow.md) — Never push to main; always branch → PR → merge. Full autonomy within project.
+- [Rebrand Strategy](project_rebrand_strategy.md) — .ai = umbrella consultancy (not AI company), .dev = personal dev brand
+- [Deployment](project_deployment.md) — Both sites live on CF Pages, noindex until launch, git dep for shared lib
+- [Site Architecture](feedback_site_architecture.md) — Single-page scrollable model, anchor sections, blog on subdomain if ever
+- [npm Registry](feedback_npm_registry.md) — @mrwpress/shared on npm public (not GitHub Packages) for Cloudflare Pages compat
+- [Project Structure](project_structure.md) — Multi-domain parent + shared npm library, three repos, two live sites
